@@ -14,7 +14,7 @@ cd UMLDraw
 # Compile and package
 mvn clean package
 # Run the app
-java -jar /FOLDER/UMLDraw/target/UMLDraw-1.0-SNAPSHOT.jar
+java -jar target/UMLDraw-1.0-SNAPSHOT.jar
 ```
 
 ## License
